@@ -1,7 +1,9 @@
 A/B testing allows to experiment with different app features, user interfaces, and engagement strategies.
 
 Here’s how it typically works:
-Segmentation: Divide the user base into groups (e.g., control group vs. test group).
-Variants: Create different versions of the feature or UI element you want to test (e.g., different button colors, wording, or placement).
-Exposure: Show each variant to its respective segment of users.
-Measurement: Collect data on user behavior (e.g., retention, revenue, engagement) for each variant.
+01 - Segmentation: Divide the user base into groups (e.g., control group vs. test group).
+02 - Variants: Create different versions of the feature or UI element you want to test (e.g., different button colors, wording, or placement).
+03 - Exposure: Show each variant to its respective segment of users.
+04 - Measurement: Collect data on user behavior (e.g., retention, revenue, engagement) for each variant.
+
+The role of analytics come into place mostly on the step 1 and 4. 
